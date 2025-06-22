@@ -1,4 +1,4 @@
-"# pop-up" 
+
 # Form with Success Popup
 
 A simple interactive form button that shows a success popup on submission. Built using HTML, CSS, and JavaScript.
@@ -24,7 +24,7 @@ A simple interactive form button that shows a success popup on submission. Built
 
 ## Screenshot
 
-![popup-preview]![image](https://github.com/user-attachments/assets/ed00dd6f-e275-42b3-8198-9de142c3e6c2)
+![image](https://github.com/user-attachments/assets/ed00dd6f-e275-42b3-8198-9de142c3e6c2)
 
 
 ---
